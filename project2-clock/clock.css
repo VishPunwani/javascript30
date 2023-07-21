@@ -2,6 +2,15 @@ html{
     font-family: "Helvetica Neue";
     font-size: 10px;
     text-align: center;
-    background-color: gradient(rgba(183, 158, 183, 0));
+    background-color: purple;
     background: cover;
+}
+
+body{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin: 0;
+    min-height: 100vh;
+    font-size: 3px;
 }
